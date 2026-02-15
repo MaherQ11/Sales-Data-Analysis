@@ -54,6 +54,6 @@ Data Analysis/
 
 ## Author
 Maher Al-Qurashi 
-Aspiring Data Analyst  
+Data Analyst  
 GitHub: https://github.com/MaherQ11
 
